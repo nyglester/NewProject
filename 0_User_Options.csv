@@ -1,0 +1,6 @@
+Option_Name,Default,User
+TP_plots,Yes,Yes
+TP_interval,4,4
+TP_format,JPEG,JPEG
+TP_folder,DataOut/ThermoPics,DataOut/ThermoPics
+Nlakes_test,0,0
